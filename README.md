@@ -9,8 +9,8 @@ https://github.com/deepmind/pysc2#get-starcraft-ii
 
 ## Development Env
 
-Ubuntu18.04
-Anaconda3
-pysc2
-sc2 ver. 4.10 for linux - very recent ver. 2020.03.30 
+<ul> Ubuntu18.04
+<ul> Anaconda3
+<ul> pysc2
+<ul> sc2 ver. 4.10 for linux - very recent ver. 2020.03.30 
 
