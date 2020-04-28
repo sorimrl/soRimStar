@@ -1,7 +1,6 @@
 # Docker is Ready
 
-docker push woodolee/torchcraftai:latest
-
+docker pull woodolee/torchcraftai:latest
 
 # How to set docker with cuda9.2 & ubuntu18.04 to study torchcraftai
 
