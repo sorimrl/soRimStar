@@ -1,4 +1,9 @@
-# docker Setting  with cuda9.2 & ubuntu18.04
+# Docker is Ready
+
+docker push woodolee/torchcraftai:latest
+
+
+# How to set docker with cuda9.2 & ubuntu18.04 to study torchcraftai
 
 sudo docker run --gpus all -t -d --name torchcraft_gpu_on nvidia/cuda:9.2-devel-ubuntu18.04
 
